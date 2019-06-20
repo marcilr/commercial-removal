@@ -19,5 +19,6 @@
 # Commercial removal
 #
 # =====================================================================
+ssh://git@github.com/marcilr/comskip    comskip
 ssh://git@github.com/marcilr/mcebuddy   mcebuddy
 #ssh://git@github.com/marcilr/dvdrip                         dvdrip
