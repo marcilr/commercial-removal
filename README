@@ -1,12 +1,28 @@
 README
-Created Wed Jun 19 19:48:09 AKDT 2019
+Created Fri Mar 27 08:17:55 AKDT 2015
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Filelist
 ========
+comskip/
+  Comskip is a free mpeg commercial detector.  It is a windows console
+  application that reads a mpeg file and analyses the content based on a large
+  amount of configurable parameters.  After analysis it generates a file in
+  various possible formats containing the location of the commercials inside the
+  mpeg file.
+  http://www.kaashoek.com/comskip/
+
 commercial-removal.txt
   Make video commercial free
 
 links.txt
   Make video commercial free related links
+
+mcebuddy/
+  MCEBuddy - Remove Commercials and Ads, Convert Videos, Rename and Organize
+  your video collection for your Windows Media Center, Recorded TV and any Video.
+  Recommended by Jerra Buttitta of GCI Network Servies, OSS for good commercial
+  removal in March 26, 2015.  He runs it under windows.
+  https://mcebuddy2x.codeplex.com/
+
