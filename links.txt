@@ -1,0 +1,20 @@
+links.txt
+Created Tue Sep 24 21:41:42 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Make video commercial free related links
+
+
+Links
+=====
+GOPchop is a "Graphical MPEG Clipper" - a Linux-based GUI program for removing
+sections from a video file with the minimum amount of disturbance to the
+stream.  It does this by writing specific "Group of Pictures" (GOP) sections
+to a new video file.  The GOPs will decode correctly and the gaps won't be
+noticed. 
+http://gopchop.org/faq.php
+
+Thread: Cut commercials from MPEG
+Good software references here.
+http://forum.videohelp.com/threads/207736-Cut-commercials-from-MPEG
