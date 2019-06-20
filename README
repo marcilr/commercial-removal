@@ -5,6 +5,10 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Specifies intentionally untracked files to ignore
+  https://git-scm.com/docs/gitignore
+
 comskip/
   Comskip is a free mpeg commercial detector.  It is a windows console
   application that reads a mpeg file and analyses the content based on a large
