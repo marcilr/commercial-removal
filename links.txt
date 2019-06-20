@@ -8,12 +8,40 @@ Make video commercial free related links
 
 Links
 =====
+[1] Mythtv:Skipping_Commercials
+http://wiki.linuxmce.org/index.php/Mythtv:Skipping_Commercials
+
+Commercial detection with Comskip.exe and Wine
+https://www.mythtv.org/wiki/Commercial_detection_with_Comskip.exe_and_Wine
+
+Comskip is a free mpeg commercial detector.  It is a windows console
+application that reads a mpeg file and analyses the content based on a large
+amount of configurable parameters.  After analysis it generates a file in
+various possible formats containing the location of the commercials inside the
+mpeg file.
+http://www.kaashoek.com/comskip/
+
 GOPchop is a "Graphical MPEG Clipper" - a Linux-based GUI program for removing
 sections from a video file with the minimum amount of disturbance to the
 stream.  It does this by writing specific "Group of Pictures" (GOP) sections
 to a new video file.  The GOPs will decode correctly and the gaps won't be
 noticed. 
 http://gopchop.org/faq.php
+
+MCEBuddy 2.x - Remove Commercials and Ads, Convert Videos, Rename and Organize
+your video collection for your Windows Media Center, Recorded TV and any Video.
+Recommended by Jerra Buttitta of GCI Network Servies, OSS for good commercial
+removal in March 26, 2015.  He runs it under windows.
+https://mcebuddy2x.codeplex.com/ 
+
+Mythtv:Remove Commercials
+Remove Commercials From Your MythTV Recordings
+This is a detailed tutorial on how to remove the commercials from your MythTV
+recordings.  I have tested it, and using some of the information from this
+wiki Mythtv:Skipping_Commercials[1] and provided a method to do this
+automatically, and reduce the size of your recordings.
+Wow - looks like succinct good stuff.
+http://wiki.linuxmce.org/index.php/Mythtv:Remove_Commercials
 
 Thread: Cut commercials from MPEG
 Good software references here.
